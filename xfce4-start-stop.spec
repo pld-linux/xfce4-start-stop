@@ -1,5 +1,5 @@
 Summary:	Starts or stops Xfce4 components
-Summary(pl.UTF-8):   Włączanie lub wyłączanie komponentów Xfce4
+Summary(pl.UTF-8):	Włączanie lub wyłączanie komponentów Xfce4
 Name:		xfce4-start-stop
 Version:	0.2
 Release:	1
