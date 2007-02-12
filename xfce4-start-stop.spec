@@ -1,5 +1,5 @@
 Summary:	Starts or stops Xfce4 components
-Summary(pl):	W³±czanie lub wy³±czanie komponentów Xfce4
+Summary(pl.UTF-8):   WÅ‚Ä…czanie lub wyÅ‚Ä…czanie komponentÃ³w Xfce4
 Name:		xfce4-start-stop
 Version:	0.2
 Release:	1
@@ -18,10 +18,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Xfce4-start-stop is a small tool which can start and stop several
 Xfce4 components with just one mouse click.
 
-%description -l pl
-Xfce4-start-stop jest ma³ym narzêdziem pozwalaj±cym na w³±czenie
-lub wy³±czenie poszczególnych komponentów Xfce pojedynczym
-klikniêciem.
+%description -l pl.UTF-8
+Xfce4-start-stop jest maÅ‚ym narzÄ™dziem pozwalajÄ…cym na wÅ‚Ä…czenie
+lub wyÅ‚Ä…czenie poszczegÃ³lnych komponentÃ³w Xfce pojedynczym
+klikniÄ™ciem.
 
 %prep
 %setup -q
